@@ -1,5 +1,6 @@
 # FCC-Tribute-Page
 First project for Free Code Camps responsive web design certification
+
 Following points had to be met to pass:
 
 #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
