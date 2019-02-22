@@ -20,4 +20,4 @@ Following points had to be met to pass:
 
 #9: The img element should be centered within its parent element.
 
-Link to completed project in code pen: https://codepen.io/Lekanbabs/full/BMdWV
+Link to completed project in code pen: https://codepen.io/Lekanbabs/full/BMdWVX
